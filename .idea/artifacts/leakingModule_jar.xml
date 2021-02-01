@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="leakingModule.jar">
+    <output-path>$PROJECT_DIR$/lib/</output-path>
+    <root id="archive" name="leakingModule.jar">
+      <element id="module-output" name="leakingModule" />
+    </root>
+  </artifact>
+</component>
